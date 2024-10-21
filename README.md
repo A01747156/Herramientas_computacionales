@@ -18,4 +18,4 @@ Para dar formato al tablero
 - Elemento 
 
 ### Latex
-$\alpha = sum_{1}^{n}x^{2}$
+$\alpha = \sum_{1}^{n}x^{2}$
