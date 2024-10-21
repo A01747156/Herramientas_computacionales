@@ -1,6 +1,6 @@
 # Herramientas_computacionales
 
-#Ejemplo de uso de Markdown
+# Ejemplo de uso de Markdown
 
 Para dar formato al tablero
 
